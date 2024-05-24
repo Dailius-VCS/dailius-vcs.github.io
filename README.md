@@ -1,1 +1,0 @@
-# dailius-vcs.github.io
