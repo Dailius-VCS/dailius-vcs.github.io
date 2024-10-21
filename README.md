@@ -18,8 +18,9 @@ Esu duomenų analitikas, turintis aistrą duomenims ir įžvalgų kūrimui iš j
 Žemiau pateikiami keli projektai, kuriuos atlikau norėdamas pagerinti savo įgūdžius ir supratimą apie duomenų analitiką:
 
 1. **[Mano demo_01 projektas](https://github.com/Dailius-VCS/repository_demo_01)** – Duomenų analizės projektas naudojant MySQL, skirtas pardavimų duomenims analizuoti.
-2. **[Projekto pavadinimas 2](nuoroda_į_projektą)** – Vizualizacija su Power BI: pajamų ataskaita pagal regioną.
-3. **[Projekto pavadinimas 3](nuoroda_į_projektą)** – Duomenų valymas ir analizė naudojant Python bei Pandas biblioteką.
+2. <a href="https://github.com/Dailius-VCS/repository_demo_01" target="_blank">Mano demo_01 projektas</a> – Duomenų analizės projektas naudojant MySQL, skirtas pardavimų duomenims analizuoti.
+3. **[Projekto pavadinimas 2](nuoroda_į_projektą)** – Vizualizacija su Power BI: pajamų ataskaita pagal regioną.
+4. **[Projekto pavadinimas 3](nuoroda_į_projektą)** – Duomenų valymas ir analizė naudojant Python bei Pandas biblioteką.
 
 ---
 
